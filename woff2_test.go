@@ -3,7 +3,6 @@ package woff2
 import (
 	"io/fs"
 	"io/ioutil"
-	"os"
 	"testing"
 )
 
@@ -25,6 +24,4 @@ func TestEncoder(t *testing.T) {
 	}
 
 	ioutil.WriteFile("./NotoSans-Regular.wof", out, fs.ModePerm)
-
-	os.Remove("./NotoSans-Regular.wof")
 }
