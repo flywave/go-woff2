@@ -1,0 +1,10 @@
+/home/flywave/work/saas/go-woff2/lib/linux/libbrotlidec.a
+/home/flywave/work/saas/go-woff2/lib/linux/libbrotlienc.a
+/home/flywave/work/saas/go-woff2/lib/linux/libbrotlicommon.a
+/home/flywave/work/saas/go-woff2/lib/linux/libwoff2dec.a
+/home/flywave/work/saas/go-woff2/lib/linux/libconvert_woff2ttf_fuzzer_new_entry.a
+/home/flywave/work/saas/go-woff2/lib/linux/libconvert_woff2ttf_fuzzer.a
+/home/flywave/work/saas/go-woff2/lib/linux/libwoff2common.a
+/home/flywave/work/saas/go-woff2/lib/linux/libwoff2enc.a
+/home/flywave/work/saas/go-woff2/lib/linux/libc_woff2.a
+/home/flywave/work/saas/go-woff2/lib/woff2_api.h
